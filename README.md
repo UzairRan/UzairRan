@@ -38,7 +38,7 @@ Here are some of my notable projects:
 ![Uzair Rana's GitHub stats](https://github-readme-stats.vercel.app/api?username=UzairRan&show_icons=true&theme=radical)
 
 ## 📫 How to reach me
-- [LinkedIn](https://www.linkedin.com/in/uzair-shafique-09a619231/)
+- [LinkedIn](https://www.linkedin.com/in/uzair-shafiq/)
 - [Twitter](https://twitter.com/Uzairrana9876)
 - [Facebook](https://www.facebook.com/uzair.rana.374/)
 - [Pinterest](https://pin.it/6JcKPQ5OI)
