@@ -1,8 +1,7 @@
-# Hi there, I'm Uzair Rana 👋
+# Hi there, I'm Uzair Shafique 👋
 
+Hello! I'm Uzair Shafique, a **Data Scientist** and **ML Scientist** with over 2 years of freelance experience delivering actionable insights using Python, SQL, and machine learning. As a medicine student, I blend healthcare knowledge with advanced machine learning skills to drive innovation across healthcare and other industries. Proficient in data visualization with Tableau and Excel, I specialize in uncovering valuable patterns with AI and ML.
 
-
-I'm a **Data Analyst** and **Data Scientist** dedicated to extracting valuable insights from data. My expertise spans across various technologies and tools. Proficient in Python and R programming, I have a solid foundation in data analysis, visualization, and manipulation. My goal is to leverage these skills, along with my expertise in machine learning, to drive data-driven decision-making and contribute to the success of forward-thinking organizations.
 
 ## 🔧 Skills
 ### Languages
@@ -19,7 +18,8 @@ I'm a **Data Analyst** and **Data Scientist** dedicated to extracting valuable i
 ![Data Analysis](https://img.shields.io/badge/-Data%20Analysis-0A66C2?style=flat&logo=Data-Analysis&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=flat&logo=Machine-Learning&logoColor=white)
 ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-EE4C2C?style=flat&logo=Deep-Learning&logoColor=white)
-![Generative AI](https://img.shields.io/badge/-Generative%20AI-00758F?style=flat&logo=AI&logoColor=white)
+![NLP](https://img.shields.io/badge/-NLP%20-00758F?style=flat&logo=AI&logoColor=white) 
+![Prompt Engineering](https://img.shields.io/badge/-Prompt%20Engineering-00758F?style=flat&logo=AI&logoColor=white) 
 
 ## 🚀 Projects
 Here are some of my notable projects:
@@ -34,8 +34,6 @@ Here are some of my notable projects:
 - Binary Classification with a Bank Churn Dataset, Playground Series - Season 4, Episode 1: Secured in the top 8% (258/3632).
 - Multi-Class Prediction of Obesity Risk, Playground Series - Season 4, Episode 2: Stood in the top 10% (356/3587).
 
-## 📈 GitHub Stats
-![Uzair Rana's GitHub stats](https://github-readme-stats.vercel.app/api?username=UzairRan&show_icons=true&theme=radical)
 
 ## 📫 How to reach me
 - [LinkedIn](https://www.linkedin.com/in/uzair-shafiq/)
