@@ -1,6 +1,6 @@
 # Hi there, I'm Uzair Shafique 👋
 
-Hello! I'm Uzair Shafique, a **Data Scientist** and **ML Scientist** with over 2 years of freelance experience delivering actionable insights using Python, SQL, and machine learning. As a medicine student, I blend healthcare knowledge with advanced machine learning skills to drive innovation across healthcare and other industries. Proficient in data visualization with Tableau and Excel, I specialize in uncovering valuable patterns with AI and ML.
+Hello! I'm Uzair Shafique, a **Data Scientist** and **ML Scientist** with over 2 years of experience delivering actionable insights using Python, SQL, and machine learning. As a medicine student, I blend healthcare knowledge with advanced machine learning skills to drive innovation across healthcare and other industries. Proficient in data visualization with Tableau and Excel, I specialize in uncovering valuable patterns with AI and ML.
 
 
 ## 🔧 Skills
