@@ -1,44 +1,94 @@
-# Hi there, I'm Uzair Shafique 👋
+# Hi there, I'm Uzair Shafique 👋 
 
-Hello! I'm Uzair Shafique, a **Data Scientist** and **ML Scientist** with over 2 years of experience delivering actionable insights using Python, SQL, and machine learning. As a medicine student, I blend healthcare knowledge with advanced machine learning skills to drive innovation across healthcare and other industries. Proficient in data visualization with Tableau and Excel, I specialize in uncovering valuable patterns with AI and ML.
+**Data Scientist & AI/ML Engineer | Pharm.D Candidate Bridging Medicine & Technology**
 
+I am a Data Scientist and Machine Learning Engineer with over 2 years of experience developing data-driven solutions in healthcare and across domains. With a background in pharmacy and expertise in AI, I integrate domain-specific insights with machine learning techniques to address practical challenges.
 
-## 🔧 Skills
-### Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
-![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=R&logoColor=white)
-
-### Tools
-![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=Microsoft-Excel&logoColor=white)
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=Tableau&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=Linux&logoColor=white)
-
-### Specialties
-![Data Analysis](https://img.shields.io/badge/-Data%20Analysis-0A66C2?style=flat&logo=Data-Analysis&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=flat&logo=Machine-Learning&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-EE4C2C?style=flat&logo=Deep-Learning&logoColor=white)
-![NLP](https://img.shields.io/badge/-NLP%20-00758F?style=flat&logo=AI&logoColor=white) 
-![Prompt Engineering](https://img.shields.io/badge/-Prompt%20Engineering-00758F?style=flat&logo=AI&logoColor=white) 
-
-## 🚀 Projects
-Here are some of my notable projects:
-- [Binary Classification with a Bank Churn Dataset](https://github.com/UzairRan/Binary-Classification-with-a-Bank-Churn-Dataset)
-- [Data Analysis Using Excel](https://github.com/UzairRan/Data-Analysis-Using-Excel)
-- [Forage Internship at Accenture](https://github.com/UzairRan/Forage-Internship-at-Accenture)
-- [Multi-Class Prediction of Cirrhosis Outcomes](https://github.com/UzairRan/Multi-Class-Prediction-of-Cirrhosis-Outcomes)
-- [WiDS Datathon 2024 Challenge 1 Equity in Healthcare](https://github.com/UzairRan/WiDS-Datathon-2024-Challenge-1-Equity-in-Healthcare)
-
-## Kaggle Competitions
-- Multi-Class Prediction of Cirrhosis Outcomes, Playground Series - Season 3, Episode 26: Ranked 40th on the final leaderboard score, placing in the top 3%.
-- Binary Classification with a Bank Churn Dataset, Playground Series - Season 4, Episode 1: Secured in the top 8% (258/3632).
-- Multi-Class Prediction of Obesity Risk, Playground Series - Season 4, Episode 2: Stood in the top 10% (356/3587).
+My work spans the complete machine learning lifecycle, including data preprocessing, feature engineering, model development, and deployment using tools such as Flask and Streamlit. I have experience optimizing ML/DL models for various computing environments, including CPU, GPU, and TPU setups.
 
 
-## 📫 How to reach me
-- [LinkedIn](https://www.linkedin.com/in/uzair-shafiq/)
-- [Twitter](https://twitter.com/Uzairrana9876)
-- [Facebook](https://www.facebook.com/uzair.rana.374/)
-- [Pinterest](https://pin.it/6JcKPQ5OI)
+## 🚀 What I Do
+
+ **Machine Learning & Deep Learning**  Classification, forecasting, NLP, and Generative AI using `scikit-learn`, `TensorFlow`, `PyTorch`, and `Hugging Face`.
+ 
+ **NLP & Prompt Engineering**  Designing and deploying LLM-based solutions and fine-tuned transformer models.
+ 
+**Data Analysis & Visualization**  Deriving insights using `Python`, `SQL`, `Excel`, and `Tableau`and other tools as well.
+
+**Healthcare AI** Leveraging Pharmacy and healthcare knowledge to build predictive models for medical problems.
+
+**Full-Stack ML Deployment**  Deploying ML apps using `Flask`, `Streamlit`, `Docker`, and `CI/CD`.
+
+ **Web Development**  Building user-centric interfaces using `React.js`, `HTML/CSS`, and REST APIs.
 
 
+##  Skills & Tools
+
+**Languages & Libraries:**  
+`Python`, `R`, `SQL`, `NumPy`, `Pandas`, `scikit-learn`, `Keras`, `TensorFlow`, `PyTorch`, `Transformers`, `spaCy`, `e1071`, `caret`
+
+**Visualization & Analysis:**  
+`Excel`, `Tableau`, `ggplot2`
+
+**Deployment & DevOps:**  
+`Docker`, `Kubernetes`, `Flask`, `Streamlit`, `CI/CD`, `Minikube`
+
+**Frontend Development:**  
+`React.js`, `HTML`, `CSS`, `JavaScript`
+
+**Other:**  
+`Linux`, `Git`, `Prompt Engineering`, `APIs`, `LLMs`
+
+
+## 🏆 Highlights
+
+- 🧬 **AI-Powered Drug Shortage Prediction System**
+ 
+Designed and deployed ML/DL models using FDA and CMS datasets to forecast drug shortages and utilization patterns. Includes Streamlit dashboard and Flask API.  
+
+[🔗 GitHub](https://github.com/UzairRan/Drug-shortage-predictor-ML-model)  | [🌐 Live App](https://drug-shortage-predictor-ml-model-howve9btbkgw2rpnhvtmxq.streamlit.app/)
+
+- 🐳 **ML Model Deployment with Docker & Kubernetes**  
+Packaged a logistic regression model into a Docker container and deployed it using Kubernetes (Minikube) with scalable REST API endpoints via Flask.  
+[🔗 GitHub](https://github.com/UzairRan/Machine-Learning-Model-Deployment-With-Docker-and-Kubernetes)
+
+- 📚 **ML Toolkit: From Data Analysis to Advanced Modeling**
+   
+Developed over 30 notebooks covering the full ML lifecycle from data analysis and feature engineering to advanced models like GNNs, transformers, and CNN-LSTM architectures.
+ 
+[🔗 GitHub](https://github.com/UzairRan/ML-Toolkit-From-Data-Analysis-to-Advanced-Modeling)
+
+- 🌦️ **Weather & News Dashboard**
+ 
+Built a real-time dashboard integrating weather data and news articles using Flask, OpenWeatherMap API, and NewsAPI, with a responsive HTML/CSS frontend.
+
+[🔗 GitHub](https://github.com/UzairRan/Weather-and-News-Project-)
+
+- 📊 **Excel Data Analysis Guide**
+  
+Curated a learning resource with PDFs and Excel notebooks covering topics such as descriptive stats, regression, pivot tables, and lookup functions.
+
+[🔗 GitHub](https://github.com/UzairRan/Excel-Data-Analysis-Guide)
+
+
+## 📂 Kaggle Highlights
+
+- **Cirrhosis Outcome Prediction** – Top 3% in Season 3, Episode 26
+  
+- **Bank Churn Classification** – Top 8% in Season 4, Episode 1
+   
+- **Obesity Risk Prediction** – Top 10% in Season 4, Episode 2
+
+
+## 📫 Let’s Connect!
+
+- 🔗 [LinkedIn](https://linkedin.com/in/uzairshafique)
+  
+- 🐦 [Twitter/X: @Uzairrana9876](https://x.com/Uzairrana9876)
+ 
+- 📧 Email: uzairshafiqueai@gmail.com
+
+- 📝 [Substack Newsletter & Blogs](https://substack.com/@uzairshafique)
+
+
+_“Bridging healthcare and machine learning to drive impact through data.”_
