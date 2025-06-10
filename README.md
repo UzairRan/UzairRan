@@ -7,7 +7,7 @@ I am a Data Scientist and Machine Learning Engineer with over 2 years of experie
 My work spans the complete machine learning lifecycle, including data preprocessing, feature engineering, model development, and deployment using tools such as Flask and Streamlit. I have experience optimizing ML/DL models for various computing environments, including CPU, GPU, and TPU setups.
 
 
-## 🚀 What I Do
+##  What I Do
 
  **Machine Learning & Deep Learning**  Classification, forecasting, NLP, and Generative AI using `scikit-learn`, `TensorFlow`, `PyTorch`, and `Hugging Face`.
  
@@ -40,38 +40,38 @@ My work spans the complete machine learning lifecycle, including data preprocess
 `Linux`, `Git`, `Prompt Engineering`, `APIs`, `LLMs`
 
 
-## 🏆 Highlights
+##  Highlights
 
-- 🧬 **AI-Powered Drug Shortage Prediction System**
+-  **AI-Powered Drug Shortage Prediction System**
  
 Designed and deployed ML/DL models using FDA and CMS datasets to forecast drug shortages and utilization patterns. Includes Streamlit dashboard and Flask API.  
 
-[🔗 GitHub](https://github.com/UzairRan/Drug-shortage-predictor-ML-model)  | [🌐 Live App](https://drug-shortage-predictor-ml-model-howve9btbkgw2rpnhvtmxq.streamlit.app/)
+[ GitHub](https://github.com/UzairRan/Drug-shortage-predictor-ML-model)  | [🌐 Live streamlit App](https://drug-shortage-predictor-ml-model-howve9btbkgw2rpnhvtmxq.streamlit.app/)
 
-- 🐳 **ML Model Deployment with Docker & Kubernetes**  
+-  **ML Model Deployment with Docker & Kubernetes**  
 Packaged a logistic regression model into a Docker container and deployed it using Kubernetes (Minikube) with scalable REST API endpoints via Flask.  
-[🔗 GitHub](https://github.com/UzairRan/Machine-Learning-Model-Deployment-With-Docker-and-Kubernetes)
+[ GitHub](https://github.com/UzairRan/Machine-Learning-Model-Deployment-With-Docker-and-Kubernetes)
 
-- 📚 **ML Toolkit: From Data Analysis to Advanced Modeling**
+-  **ML Toolkit: From Data Analysis to Advanced Modeling**
    
 Developed over 30 notebooks covering the full ML lifecycle from data analysis and feature engineering to advanced models like GNNs, transformers, and CNN-LSTM architectures.
  
-[🔗 GitHub](https://github.com/UzairRan/ML-Toolkit-From-Data-Analysis-to-Advanced-Modeling)
+[ GitHub](https://github.com/UzairRan/ML-Toolkit-From-Data-Analysis-to-Advanced-Modeling)
 
-- 🌦️ **Weather & News Dashboard**
+-  **Weather & News Dashboard**
  
 Built a real-time dashboard integrating weather data and news articles using Flask, OpenWeatherMap API, and NewsAPI, with a responsive HTML/CSS frontend.
 
-[🔗 GitHub](https://github.com/UzairRan/Weather-and-News-Project-)
+[ GitHub](https://github.com/UzairRan/Weather-and-News-Project-)
 
-- 📊 **Excel Data Analysis Guide**
+-  **Excel Data Analysis Guide**
   
 Curated a learning resource with PDFs and Excel notebooks covering topics such as descriptive stats, regression, pivot tables, and lookup functions.
 
-[🔗 GitHub](https://github.com/UzairRan/Excel-Data-Analysis-Guide)
+[ GitHub](https://github.com/UzairRan/Excel-Data-Analysis-Guide)
 
 
-## 📂 Kaggle Highlights
+##  Kaggle Highlights
 
 - **Cirrhosis Outcome Prediction** – Top 3% in Season 3, Episode 26
   
@@ -80,15 +80,15 @@ Curated a learning resource with PDFs and Excel notebooks covering topics such a
 - **Obesity Risk Prediction** – Top 10% in Season 4, Episode 2
 
 
-## 📫 Let’s Connect!
+##  Let’s Connect!
 
-- 🔗 [LinkedIn](https://linkedin.com/in/uzairshafique)
+-  [LinkedIn](https://linkedin.com/in/uzairshafique)
   
-- 🐦 [Twitter/X: @Uzairrana9876](https://x.com/Uzairrana9876)
+-  [Twitter/X: @Uzairrana9876](https://x.com/Uzairrana9876)
  
-- 📧 Email: uzairshafiqueai@gmail.com
+-  Email: uzairshafiqueai@gmail.com
 
-- 📝 [Substack Newsletter & Blogs](https://substack.com/@uzairshafique)
+-  [Substack Newsletter & Blogs](https://substack.com/@uzairshafique)
 
 
 _“Bridging healthcare and machine learning to drive impact through data.”_
