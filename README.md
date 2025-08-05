@@ -30,7 +30,7 @@ data cleaning → feature engineering → modeling → deployment using tools li
 
 **Languages & Libraries:**
 'Python', 'R', 'SQL', 'NumPy', 'Pandas', 'scikit-learn', 'Keras', 'TensorFlow', 'PyTorch', 'Transformers', spaCy, 'e1071', 'caret'
-'
+
 **Visualization & Reporting:**
 'Excel', 'Tableau', 'ggplot2', 'Matplotlib', 'Seaborn'
 
