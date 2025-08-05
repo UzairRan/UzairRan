@@ -1,44 +1,47 @@
-# Hi there, I'm Uzair Shafique 👋 
+# 👋 Hi, I’m Uzair Shafique
 
-**Data Scientist & AI/ML Engineer | Pharm.D Candidate Bridging Medicine & Technology**
+**Data Scientist & ML Engineer | Model Deployment & Product Thinking | Python, SQL, Data Analysis, Generative AI**
 
-I am a Data Scientist and Machine Learning Engineer with over 2 years of experience developing data-driven solutions in healthcare and across domains. With a background in pharmacy and expertise in AI, I integrate domain-specific insights with machine learning techniques to address practical challenges.
+I’m a Data Scientist and Machine Learning Engineer with 2+ years of experience building end-to-end AI solutions from raw data to real-world deployment. With a background in pharmacy, I combine healthcare knowledge with technical expertise to solve real problems through data and ML.
 
-My work spans the complete machine learning lifecycle, including data preprocessing, feature engineering, model development, and deployment using tools such as Flask and Streamlit. I have experience optimizing ML/DL models for various computing environments, including CPU, GPU, and TPU setups.
+My work spans the full machine learning lifecycle:
+data cleaning → feature engineering → modeling → deployment using tools like Flask, Streamlit, and Docker. I’ve worked with structured and unstructured datasets in healthcare, public data, and operational domains, deploying models on both local and cloud setups (CPU, GPU, TPU).
 
 
-##  What I Do
 
- **Machine Learning & Deep Learning**  Classification, forecasting, NLP, and Generative AI using `scikit-learn`, `TensorFlow`, `PyTorch`, and `Hugging Face`.
- 
- **NLP & Prompt Engineering**  Designing and deploying LLM-based solutions and fine-tuned transformer models.
- 
-**Data Analysis & Visualization**  Deriving insights using `Python`, `SQL`, `Excel`, and `Tableau`and other tools as well.
 
-**Healthcare AI** Leveraging Pharmacy and healthcare knowledge to build predictive models for medical problems.
+##  What I Work On
 
-**Full-Stack ML Deployment**  Deploying ML apps using `Flask`, `Streamlit`, `Docker`, and `CI/CD`.
+**Machine Learning & Deep Learning** Classification, forecasting, NLP, and generative models using 'scikit-learn', 'TensorFlow', 'PyTorch', and 'Hugging Face'
 
- **Web Development**  Building user-centric interfaces using `React.js`, `HTML/CSS`, and REST APIs.
+**NLP & Prompt Engineering** Fine-tuning 'transformer models', 'building LLM apps', and designing 'custom prompts'
+
+**Data Analysis & Visualization** Working with messy real-world data using 'Python', 'SQL', 'Excel',  to extract insights
+
+**Healthcare AI** Building models for drug prediction, clinical data analysis, and real-world medical problems
+
+**ML Deployment** Creating interactive dashboards and APIs using Flask, Streamlit, Docker, and CI/CD
+
+**Web Development** Building user-facing tools and interfaces using 'React.js', 'HTML', 'CSS', and 'REST APIs'
+
 
 
 ##  Skills & Tools
 
-**Languages & Libraries:**  
-`Python`, `R`, `SQL`, `NumPy`, `Pandas`, `scikit-learn`, `Keras`, `TensorFlow`, `PyTorch`, `Transformers`, `spaCy`, `e1071`, `caret`
+**Languages & Libraries:**
+'Python', 'R', 'SQL', 'NumPy', 'Pandas', 'scikit-learn', 'Keras', 'TensorFlow', 'PyTorch', 'Transformers', spaCy, 'e1071', 'caret'
+'
+**Visualization & Reporting:**
+'Excel', 'Tableau', 'ggplot2', 'Matplotlib', 'Seaborn'
 
-**Visualization & Analysis:**  
-`Excel`, `Tableau`, `ggplot2`
+**Deployment & MLOps:**
+'Flask', 'Streamlit', 'Docker', 'Kubernetes', 'CI/CD', 'Minikube', 'Postman'
 
-**Deployment & DevOps:**  
-`Docker`, `Kubernetes`, `Flask`, `Streamlit`, `CI/CD`, `Minikube`
+**Frontend & Integration:**
+'React.js', 'HTML', 'CSS', 'JavaScript', 'REST APIs'
 
-**Frontend Development:**  
-`React.js`, `HTML`, `CSS`, `JavaScript`
-
-**Other:**  
-`Linux`, `Git`, `Prompt Engineering`, `APIs`, `LLMs`
-
+**Other:**
+'Linux', 'Git', 'Prompt Engineering', 'LLMs', 'APIs', 'Jupyter', 'VS Code'
 
 ##  Highlights
 
