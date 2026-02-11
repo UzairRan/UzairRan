@@ -22,7 +22,7 @@ My philosophy is simple:
  
 - **Practical ML:** Choosing the right approach—whether a neural network, simple rule-based logic, or clean data architecture. I don’t chase complexity unnecessarily.
  
-- **Product Thinking:** Designing solutions that solve real human problems. The goal is quiet confidence—technology that works seamlessly so users just get their job done.
+- **Product Thinking:** Designing solutions that solve real human problems. The goal is quiet confidence technology that works seamlessly so users just get their job done.
  
 - **User-Focused Delivery:** Building APIs, dashboards, and integrations so non-technical users can act on insights.
  
